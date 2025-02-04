@@ -1,0 +1,15 @@
+pydub
+nltk
+torchaudio
+inflect
+spacy
+scipy
+pyaudio
+openai
+transformers
+playsound
+sounddevice
+soundfile
+tiktoken
+blobfile
+protobuf

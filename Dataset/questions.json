@@ -1,0 +1,14 @@
+[
+    {
+        "id": "overfitting",
+        "text": "What is the difference between overfitting and underfitting?",
+        "max_score": 10,
+        "competency": "Technical Depth"
+    },
+    {
+        "id": "data_preprocessing",
+        "text": "You are given a dataset with missing values. How would you clean and preprocess the data before using it for analysis?",
+        "max_score": 20,
+        "competency": "Thought Process & Techniques"
+    }
+]
